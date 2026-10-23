@@ -32,3 +32,6 @@ Thumbs.db
 
 # Generated performance results
 tools/performance/results/
+
+# Local E2E credentials
+**/.e2e-accounts.local.json
