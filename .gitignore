@@ -1,0 +1,33 @@
+# Local Git metadata retained from the former component repositories
+**/.git-legacy/
+
+# IDE and operating-system files
+**/.idea/
+**/.vscode/
+.DS_Store
+Thumbs.db
+*.iml
+
+# Secrets and local configuration
+.env
+**/.env
+!.env.example
+**/local.properties
+
+# Build output and dependency caches
+**/target/
+**/build/
+**/.gradle/
+**/.gradle-user-home/
+**/.android-user-home/
+**/node_modules/
+**/dist/
+**/.run-logs/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Generated performance results
+tools/performance/results/
