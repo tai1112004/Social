@@ -1,5 +1,6 @@
 # Local Git metadata retained from the former component repositories
 **/.git-legacy/
+.codebase-memory/
 
 # IDE and operating-system files
 **/.idea/
